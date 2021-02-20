@@ -19,7 +19,7 @@ You can learn more about what the prizes are: https://try.dolby.io/brickhack7/
 **Judging Criteria**
 
 - Working: your application should run and be available for judges to take a look at the source code as evidence of work using a Dolby.io API
-- Creative: a novel or creative idea that explores how Dolby.io APIs could be used in new ways
+- Creative: a novel or creative idea that explores how Dolby.io APIs could be used or visualized in interesting ways
 - Purposeful: projects that serve a purpose or solve a problem that others might have
 
 If you do something [awesome with audio](https://github.com/DolbyIO/awesome-audio) or helpful to the broader audio community we'll also be taking notice and have a few bonus prizes to be awarded soon after the event.
