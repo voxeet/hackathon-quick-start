@@ -1,9 +1,4 @@
 # Hackathon Resources
-
-Learn more at https://dolby.io
-
-- [Dolby.io @ Cue Sheet Palooza Hackathon 2022](https://go.dolby.io/cue-sheet-2022)
-
 ## Swag Eligability
 1. Create a Dolby.io Account.
 2. Make an API call: https://docs.dolby.io/.
@@ -37,10 +32,10 @@ You need to create an account in order to use Dolby.io APIs.
 # Thought Starters
 ### [Media APIs](https://docs.dolby.io/media-apis/docs)
 Support for media workflows to analyze and enhance file-based media and improve the quality of audience experiences.
-[Enhance API](https://docs.dolby.io/media-apis/docs/enhance-api-guide) - Correct audio defects such as noise or hum.
-[Analyze API](https://docs.dolby.io/media-apis/docs/analyze-api-guide) - Look up things like media file duration, file type, loudness level, audio classification (music, speech, silence).
-[Transcode API](https://docs.dolby.io/media-apis/docs/transcode-api-guide) - Create variations of format for media so soundtracks on soundcloud, streaming media online, or use in film can be achieved.
-[Music Mastering API](https://docs.dolby.io/media-apis/docs/music-mastering-api-guide) - For new compositions that are not already using professional tools.
+- [Enhance API](https://docs.dolby.io/media-apis/docs/enhance-api-guide) - Correct audio defects such as noise or hum.
+- [Analyze API](https://docs.dolby.io/media-apis/docs/analyze-api-guide) - Look up things like media file duration, file type, loudness level, audio classification (music, speech, silence).
+- [Transcode API](https://docs.dolby.io/media-apis/docs/transcode-api-guide) - Create variations of format for media so soundtracks on soundcloud, streaming media online, or use in film can be achieved.
+- [Music Mastering API](https://docs.dolby.io/media-apis/docs/music-mastering-api-guide) - For new compositions that are not already using professional tools.
 
 Media API content that can help you get started :
 - [Sampling Excerpts of Media to Determine Ideal Enhance Parameters](https://dolby.io/blog/sampling-excerpts-of-media-to-determine-ideal-enhance-parameters/)
