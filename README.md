@@ -5,16 +5,19 @@ Learn more at https://dolby.io
 - [Dolby.io @ Cue Sheet Palooza Hackathon 2022](https://go.dolby.io/cue-sheet-2022)
 
 ## Swag Eligability
-1. Create a Dolby.io Acocunt
-2. Make an API call: https://docs.dolby.io/
+1. Create a Dolby.io Account.
+2. Make an API call: https://docs.dolby.io/.
+3. Meet us at the Dolby.io Booth to claim some swag.
 
 ## Prize Eligibility
 1. You must follow all event rules and code of conduct.
 2. At least one team member must sign up for an account -- instructions below.
 3. You must make at least one successful Dolby.io API request as part of your project.
 
+The prize will be allocated to the highest scoring team that utilizes atleast one Dolby.io API.
+
 ### Exclusions
-using a Dolby technology such as Atmos, Vision, Cinema, Gaming, etc. (while cool) does not count
+Using a Dolby technology such as Atmos, Vision, Cinema, Gaming, etc. (while cool) does not count
 
 ***  
 # Create an Account
