@@ -24,12 +24,10 @@ You need to create an account in order to use Dolby.io APIs.
 - Create your account.
 
 **Notes:**
-- accounts are free and do not require a credit card
-- accounts come with trial credits for processing
-- you'll need to confirm your email address
-- use "CueSheet" as your company during enrollment
-- you will end up on dolby.com to explore, but you'll want to return to dolby.io to get your API keys from the dashboard
-- if you have any trouble, find us in discord at: https://discord.com/channels/914575094704115762/959851315335401472
+- Accounts are free and **do not require a credit card**.
+- Accounts come with trial credits for processing.
+- You'll need to confirm your email address.
+- If you have any trouble, find us in discord at: https://discord.com/channels/914575094704115762/959851315335401472.
 
 
 # Thought Starters
@@ -62,6 +60,7 @@ Communications API content that can help you get started:
 - Our Documentation: https://docs.dolby.io/
 - Our Blog: https://dolby.io/blog/
 - Our Sample Repo: https://github.com/dolbyio-samples
+- [CueSheet Dolby.io Discord](https://discord.com/channels/914575094704115762/959851315335401472)
 
 Happy hacking :)
 
