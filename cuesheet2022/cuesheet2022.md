@@ -16,12 +16,13 @@ In order to use the Dolby.io APIs you need an account.
 
 ## 2. Make an API Call
 
-Visit https://docs.dolby.io and follow one of the Getting Started guides.
+Visit https://docs.dolby.io and follow one of the Getting Started guides.  There are thought starters below
+with some ideas to help you get started.
 
 ## 3. Tell us About It
 
 Once you've created an account and made an API call, come visit us at the Dolby.io table
-and collect some swag.
+to tell us what you thought and collect some swag.
 
 ## 4. Use Dolby.io In Your Winning Project
 
@@ -32,7 +33,8 @@ If you use Dolby.io in your project you'll be eligible for a bonus prize.
 3. You must make at least one successful Dolby.io API request as part of your project.
 4. See the Thought Starters below for some ideas.
 
-**Exclusions: Using a Dolby technology such as Atmos, Vision, Cinema, Gaming, etc. (while cool) does not count.**
+**Exclusions: Using a Dolby technology such as Atmos, Vision, Cinema, Gaming, etc. (while cool) does not count.**  
+For this hackathon we are focusing on the APIs and SDKs that you can find on https://dolby.io/ 
 
 # Thought Starters
 
