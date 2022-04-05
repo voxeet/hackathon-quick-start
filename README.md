@@ -32,7 +32,7 @@ You need to create an account in order to use Dolby.io APIs.
 ***  
 # Thought Starters
 ### [Media APIs](https://docs.dolby.io/media-apis/docs)
-*Support for media workflows to analyze and enhance file-based media and improve the quality of audience experiences.
+*Support for media workflows to analyze and enhance file-based media and improve the quality of audience experiences.*
 - [Enhance API](https://docs.dolby.io/media-apis/docs/enhance-api-guide) - Correct audio defects such as noise or hum.
 - [Analyze API](https://docs.dolby.io/media-apis/docs/analyze-api-guide) - Look up things like media file duration, file type, loudness level, audio classification (music, speech, silence).
 - [Transcode API](https://docs.dolby.io/media-apis/docs/transcode-api-guide) - Create variations of format for media so soundtracks on soundcloud, streaming media online, or use in film can be achieved.
@@ -45,7 +45,7 @@ Media API content that can help you get started :
 - [Automating Dolby.io Media Workflows with Google Cloud Functions](https://dolby.io/blog/automating-dolby-io-media-workflows-with-google-cloud-functions/)
 
 ### [Communications APIs](https://docs.dolby.io/communications-apis/docs)
-*Add HD voice and video for fully immersive real-time communications and streaming projects.
+*Add HD voice and video for fully immersive real-time communications and streaming projects.*
 - [Developer SDKs](https://docs.dolby.io/communications-apis/docs/overview-developer-tools) - Build out fully functional video-audio conference appications for Web, Android, and iOS.
 - [Dolby Voice](https://docs.dolby.io/communications-apis/docs/guides-dolby-voice) - Add realtime noise correction and speaker isolation to your conference application.
 - [Spatial Audio](https://docs.dolby.io/communications-apis/docs/guides-spatial-audio) - Add spatial audio functionality to your conference application.
