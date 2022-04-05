@@ -56,7 +56,7 @@ Communications API content that can help you get started:
 - [Building a Classroom App with Moderation and Assigned Seats using Firebase](https://dolby.io/blog/building-a-classroom-app-with-moderation-and-assigned-seats-using-firebase/)
 - [How to Build a Social Audio App That Actually Sounds Good](https://dolby.io/blog/how-to-build-a-social-audio-app-that-actually-sounds-good/)
 
-#Developer Resources 
+# Developer Resources 
 - Our Documentation: https://docs.dolby.io/
 - Our Blog: https://dolby.io/blog/
 - Our Sample Repo: https://github.com/dolbyio-samples
