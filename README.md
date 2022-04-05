@@ -11,8 +11,6 @@
 2. At least one team member must sign up for an account -- instructions below.
 3. You must make at least one successful Dolby.io API request as part of your project.
 
-The prize of $250 will be allocated to the highest scoring team that utilizes atleast one Dolby.io API.
-
 ### Exclusions
 Using a Dolby technology such as Atmos, Vision, Cinema, Gaming, etc. (while cool) does not count
 
