@@ -1,9 +1,9 @@
 
-Dolby.io is an API-first developer platform for building new media apps, tools, and workflows.  Learn more about how the APIs can help on your project from our Hackathon Quick Start with links to docs & thought starters for Analyzing Media, Mastering Music, Collaborating Real-Time and Transcoding:
+Dolby.io is an API-first developer platform for building new media apps, tools, and workflows.  Learn more about how the APIs can help on your project from our this guide with links to docs & thought starters for Analyzing Media, Mastering Music, Collaborating Real-Time and Transcoding:
 
 Learn more about our swag and prizes for hackathon participants: https://go.dolby.io/cue-sheet-2022
 
-# Getting Started
+# Quick Start
 
 ## 1. Get a Free Dolby.io Account
 
