@@ -14,7 +14,7 @@ The prize will be allocated to the highest scoring team that utilizes atleast on
 ### Exclusions
 Using a Dolby technology such as Atmos, Vision, Cinema, Gaming, etc. (while cool) does not count
 
-***  
+
 # Create an Account
 
 You need to create an account in order to use Dolby.io APIs.
@@ -29,7 +29,7 @@ You need to create an account in order to use Dolby.io APIs.
 - you will end up on dolby.com to explore, but you'll want to return to dolby.io to get your API keys from the dashboard
 - if you have any trouble, find us in discord at: https://discord.com/channels/914575094704115762/959851315335401472
 
-***  
+
 # Thought Starters
 ### [Media APIs](https://docs.dolby.io/media-apis/docs)
 *Support for media workflows to analyze and enhance file-based media and improve the quality of audience experiences.*
@@ -38,7 +38,7 @@ You need to create an account in order to use Dolby.io APIs.
 - [Transcode API](https://docs.dolby.io/media-apis/docs/transcode-api-guide) - Create variations of format for media so soundtracks on soundcloud, streaming media online, or use in film can be achieved.
 - [Music Mastering API](https://docs.dolby.io/media-apis/docs/music-mastering-api-guide) - For new compositions that are not already using professional tools.
 
-Media API content that can help you get started :
+Media API content that can help you get started:
 - [Sampling Excerpts of Media to Determine Ideal Enhance Parameters](https://dolby.io/blog/sampling-excerpts-of-media-to-determine-ideal-enhance-parameters/)
 - [Transcode Video to YouTube Recommendations](https://dolby.io/blog/transcode-video-to-youtube-recommendations/)
 - [Beginner’s Guide to Diagnosing Audio Issues as Part of an Azure Serverless Media Workflow](https://dolby.io/blog/diagnosing-audio-issues-azure-serverless-media-workflow/)
@@ -49,3 +49,10 @@ Media API content that can help you get started :
 - [Developer SDKs](https://docs.dolby.io/communications-apis/docs/overview-developer-tools) - Build out fully functional video-audio conference appications for Web, Android, and iOS.
 - [Dolby Voice](https://docs.dolby.io/communications-apis/docs/guides-dolby-voice) - Add realtime noise correction and speaker isolation to your conference application.
 - [Spatial Audio](https://docs.dolby.io/communications-apis/docs/guides-spatial-audio) - Add spatial audio functionality to your conference application.
+
+Communications API content that can help you get started:
+- [Creating A Fixed Place Spatial Environment for Video Conferencing](https://dolby.io/blog/creating-a-fixed-place-spatial-environment-for-video-conferencing/)
+- [How Livestorm Uses the Dolby.io Call Recording API to Capture Live Events and On-demand Webinars](https://dolby.io/blog/how-livestorm-uses-the-dolby-io-call-recording-api-to-capture-live-events-and-on-demand-webinars/)
+- [Building a Classroom App with Moderation and Assigned Seats using Firebase](https://dolby.io/blog/building-a-classroom-app-with-moderation-and-assigned-seats-using-firebase/)
+- [How to Build a Social Audio App That Actually Sounds Good](https://dolby.io/blog/how-to-build-a-social-audio-app-that-actually-sounds-good/)
+
