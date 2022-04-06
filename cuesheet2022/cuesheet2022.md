@@ -21,7 +21,7 @@ In order to use the Dolby.io APIs you need an account.
 Visit https://docs.dolby.io and follow one of the Getting Started guides.  There are thought starters below
 with some ideas to help you get started.
 
-> If unsure wheere to start, we'd may we recommend [Diagnosing Media](https://docs.dolby.io/media-apis/docs/diagnose-api-guide) to get some insight into your media.
+> Unsure where to begin? Start with [Diagnosing Media](https://docs.dolby.io/media-apis/docs/diagnose-api-guide) to get some insights into your audio.
 
 ## 3. Tell us About It
 
