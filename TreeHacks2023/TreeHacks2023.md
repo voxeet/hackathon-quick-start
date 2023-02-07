@@ -1,4 +1,4 @@
-#TreeHacks 2023: Dolby.io Quick Start
+# TreeHacks 2023: Dolby.io Quick Start
 
 Dolby.io is proud to be sponsoring [TreeHacks 2023](https://www.treehacks.com/)
 
