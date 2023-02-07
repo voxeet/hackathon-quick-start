@@ -75,7 +75,9 @@ The Dolby.io team is located at booth ____ come tell us about your projects and 
 - Sena?
 
 **Community Writing Program :pencil2:**
+
 Are you interested in getting paid to use the Dolby.io APIs? We've recently launched our [Community Writing Program](https://go.dolby.io/community-writing) where you can earn $$$ by building with our APIs and blogging about it. Learn more at: https://go.dolby.io/community-writing
 
 **Careers with Dolby**
+
 Dolby is hiring! Learn more at: https://www.dolby.com/careers/#gref
