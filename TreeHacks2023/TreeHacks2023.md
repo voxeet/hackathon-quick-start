@@ -60,14 +60,14 @@ The Dolby.io team is hosting a **20-minute workshop** to help you get started wi
 
 
 
-##Diversity Panel w/ Angelik
+## Diversity Panel w/ Angelik
 - what is it
 - time
 - location
 
 
-##Come Meet the Dolby.io Team
-The Dolby.io team is located at booth **** come tell us about your projects and learn more about our APIs.
+## Come Meet the Dolby.io Team
+The Dolby.io team is located at booth ____ come tell us about your projects and learn more about our APIs.
 - Braden
 - Angelik
 - Griffin
