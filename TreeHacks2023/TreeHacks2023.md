@@ -13,7 +13,7 @@ Dolby.io is proud to be sponsoring [TreeHacks 2023](https://www.treehacks.com/)
 
 :eyes: [Come Meet the Dolby.io Team]() 
 
----
+
 ## Getting Started With Dolby.io APIs
 Dolby.io is a new developer platform by Dolby Labs that puts decades of Dolby sight and sound technology in the hands of developers. The Dolby.io APIs can be divided into **3** main suites of tools:
 
@@ -38,7 +38,8 @@ Dolby.io is a new developer platform by Dolby Labs that puts decades of Dolby si
 
 ### Quick Start with Media 
 > [Documentation](https://docs.dolby.io/media-apis/docs) | [Blog](https://dolby.io/blog/category/media/) | [Youtube](https://www.youtube.com/@DolbyIO) | [GitHub](https://github.com/dolbyio-samples)
----
+
+
 ## Dolby.io Prize Requirments
 - prize requirments
 - swag requirments
@@ -46,7 +47,8 @@ Dolby.io is a new developer platform by Dolby Labs that puts decades of Dolby si
 **Community Writing Program :pencil2:**
 Are you interested in getting paid to use the Dolby.io APIs? We've recently launched our [Community Writing Program](https://go.dolby.io/community-writing) where you can earn $$$ by building with our APIs and blogging about it. Learn more at: https://go.dolby.io/community-writing
 
----
+
+
 ## Streaming API Workshop
 
 The Dolby.io team is hosting a **20-minute workshop** to help you get started with the Streaming APIs. In this workshop we'll cover getting to "hello world" with the API as well as popular usecases and thought starters. We'll also be handing out Dolby.io Swag :shirt:!
@@ -56,12 +58,14 @@ The Dolby.io team is hosting a **20-minute workshop** to help you get started wi
 **Sign Up?**
 **Recording?**
 
----
+
+
 ##Diversity Panel w/ Angelik
 - what is it
 - time
 - location
----
+
+
 ##Come Meet the Dolby.io Team
 The Dolby.io team is located at booth **** come tell us about your projects and learn more about our APIs.
 - Braden
