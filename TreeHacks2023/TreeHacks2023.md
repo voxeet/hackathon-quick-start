@@ -2,7 +2,7 @@
 
 Dolby.io is proud to be sponsoring [TreeHacks 2023](https://www.treehacks.com/)
 
-####:bulb:**Quick Links**:bulb:
+#### :bulb:**Quick Links**:bulb:
 :hammer: [Dolby.io API Quick Start]()
 :moneybag: [Prizes and Swag Requirements ]() 
 :raising_hand: [Come join the Streaming API Workshop]() 
@@ -20,16 +20,16 @@ Dolby.io is a new developer platform by Dolby Labs that puts decades of Dolby si
 1. **[Media](https://docs.dolby.io/media-apis/docs)**: Media post-processing **REST API** solutions that Enhance, Transcode, Master, and Analyze user generated content.
 
 
-###Quick Start with Streaming 
+### Quick Start with Streaming 
 >[Streaming API Workshop :raising_hand:]() | [Documentation](https://docs.dolby.io/streaming-apis/docs/client-sdks) | [Blog](https://dolby.io/blog/category/streaming/) | [Youtube](https://www.youtube.com/@DolbyIO) | [GitHub](https://github.com/dolbyio-samples)
 
-###Quick Start with Communications 
+### Quick Start with Communications 
 >[Documentation](https://docs.dolby.io/communications-apis/docs) | [Blog](https://dolby.io/blog/category/communications/) | [Youtube](https://www.youtube.com/@DolbyIO) | [GitHub](https://github.com/dolbyio-samples)
 
-###Quick Start with Media 
+### Quick Start with Media 
 >[Documentation](https://docs.dolby.io/media-apis/docs) | [Blog](https://dolby.io/blog/category/media/) | [Youtube](https://www.youtube.com/@DolbyIO) | [GitHub](https://github.com/dolbyio-samples)
 ---
-##Dolby.io Prize Requirments
+## Dolby.io Prize Requirments
 - prize requirments
 - swag requirments
 
@@ -37,7 +37,7 @@ Dolby.io is a new developer platform by Dolby Labs that puts decades of Dolby si
 Are you interested in getting paid to use the Dolby.io APIs? We've recently launched our [Community Writing Program](https://go.dolby.io/community-writing) where you can earn $$$ by building with our APIs and blogging about it. Learn more at: https://go.dolby.io/community-writing
 
 ---
-##Streaming API Workshop
+## Streaming API Workshop
 
 The Dolby.io team is hosting a **20-minute workshop** to help you get started with the Streaming APIs. In this workshop we'll cover getting to "hello world" with the API as well as popular usecases and thought starters. We'll also be handing out Dolby.io Swag :shirt:!
 
