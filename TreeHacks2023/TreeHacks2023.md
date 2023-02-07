@@ -16,9 +16,9 @@ Dolby.io is proud to be sponsoring [TreeHacks 2023](https://www.treehacks.com/)
 ---
 ## Getting Started With Dolby.io APIs
 Dolby.io is a new developer platform by Dolby Labs that puts decades of Dolby sight and sound technology in the hands of developers. The Dolby.io APIs can be divided into **3** main suites of tools:
-```
-**Sign-up for an account [using this link](https://bit.ly/dolbyio-at-treehacks) to get free minutes on your account for use on your hackathon project.**
-```
+
+> **Sign-up for an account [using this link](https://bit.ly/dolbyio-at-treehacks) to get free minutes on your account for use on your hackathon project.**
+
 1. **[Streaming](https://docs.dolby.io/streaming-apis/docs/client-sdks)**: One-to-many Real-time WebRTC, SRT, and RTMP live streaming to massive audiences.
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,swift,java,flutter,dotnet,linux,mac,unreal,unity&perline=15)](https://docs.dolby.io/streaming-apis/docs/client-sdks)
@@ -31,13 +31,13 @@ Dolby.io is a new developer platform by Dolby Labs that puts decades of Dolby si
 
 
 ### Quick Start with Streaming 
->[Streaming API Workshop :raising_hand:]() | [Documentation](https://docs.dolby.io/streaming-apis/docs/client-sdks) | [Blog](https://dolby.io/blog/category/streaming/) | [Youtube](https://www.youtube.com/@DolbyIO) | [GitHub](https://github.com/dolbyio-samples)
+> [Streaming API Workshop :raising_hand:]() | [Documentation](https://docs.dolby.io/streaming-apis/docs/client-sdks) | [Blog](https://dolby.io/blog/category/streaming/) | [Youtube](https://www.youtube.com/@DolbyIO) | [GitHub](https://github.com/dolbyio-samples)
 
 ### Quick Start with Communications 
->[Documentation](https://docs.dolby.io/communications-apis/docs) | [Blog](https://dolby.io/blog/category/communications/) | [Youtube](https://www.youtube.com/@DolbyIO) | [GitHub](https://github.com/dolbyio-samples)
+> [Documentation](https://docs.dolby.io/communications-apis/docs) | [Blog](https://dolby.io/blog/category/communications/) | [Youtube](https://www.youtube.com/@DolbyIO) | [GitHub](https://github.com/dolbyio-samples)
 
 ### Quick Start with Media 
->[Documentation](https://docs.dolby.io/media-apis/docs) | [Blog](https://dolby.io/blog/category/media/) | [Youtube](https://www.youtube.com/@DolbyIO) | [GitHub](https://github.com/dolbyio-samples)
+> [Documentation](https://docs.dolby.io/media-apis/docs) | [Blog](https://dolby.io/blog/category/media/) | [Youtube](https://www.youtube.com/@DolbyIO) | [GitHub](https://github.com/dolbyio-samples)
 ---
 ## Dolby.io Prize Requirments
 - prize requirments
