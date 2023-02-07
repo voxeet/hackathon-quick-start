@@ -80,4 +80,4 @@ Are you interested in getting paid to use the Dolby.io APIs? We've recently laun
 
 **Careers with Dolby**
 
-Dolby is hiring! Learn more at: https://www.dolby.com/careers/#gref
+Dolby is hiring! Learn more at: https://www.dolby.com/careers/
