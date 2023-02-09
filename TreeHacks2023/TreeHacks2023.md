@@ -53,7 +53,7 @@ Are you interested in getting paid to use the Dolby.io APIs? We've recently laun
 
 The Dolby.io team is hosting a **20-minute workshop** to help you get started with the Streaming APIs. In this workshop we'll cover getting to "hello world" with the API as well as popular usecases and thought starters. We'll also be handing out Dolby.io Swag :shirt:!
 
-**Time:**
+**Time:** 10:30AM Saturday
 **Location:**
 **Sign Up?**
 **Recording?**
@@ -62,17 +62,16 @@ The Dolby.io team is hosting a **20-minute workshop** to help you get started wi
 
 ## Diversity Panel w/ Angelik
 - what is it
-- time
+- Saturday 10:30AM-11:30AM
 - location
 
 
 ## Come Meet the Dolby.io Team
 The Dolby.io team is located at booth ____ come tell us about your projects and learn more about our APIs.
-- :runner: Braden (he/him) graduated university in 2021 and joined Dolby.io as a Developer Advocate. He's here to help with all things Dolby.io but also loves to chat about Python, Flutter, and about growing up in Australia.
+- Braden
 - Angelik
 - Griffin
-- Jayson
-- Sena?
+- Sena
 
 **Community Writing Program :pencil2:**
 
