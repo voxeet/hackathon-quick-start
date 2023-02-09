@@ -68,9 +68,9 @@ The Dolby.io team is hosting a **20-minute workshop** to help you get started wi
 
 ## Come Meet the Dolby.io Team
 The Dolby.io team is located at booth ____ come tell us about your projects and learn more about our APIs.
-- Braden
+- 🏃 Braden (he/him) graduated university in 2021 and joined Dolby.io as a Developer Advocate. He's here to help with all things Dolby.io but also loves to chat about Python, Flutter, and about growing up in Australia.
 - Angelik
-- Griffin
+- 👓 Griffin (he/him/any) graduated from Yale in 2019 and works for Dolby.io as a Developer Advocate. Ask him about Linux, JS, and what he's playing on Steam Deck.
 - Sena
 
 **Community Writing Program :pencil2:**
