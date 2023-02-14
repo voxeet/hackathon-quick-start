@@ -68,10 +68,10 @@ The Dolby.io team is hosting a **20-minute workshop** to help you get started wi
 
 ## Come Meet the Dolby.io Team
 The Dolby.io team is located at booth ____ come tell us about your projects and learn more about our APIs.
-- 🏃 Braden (he/him) graduated university in 2021 and joined Dolby.io as a Developer Advocate. He's here to help with all things Dolby.io but also loves to chat about Python, Flutter, and about growing up in Australia.
+- 🏃 Braden (he/him/his) graduated university in 2021 and joined Dolby.io as a Developer Advocate. He's here to help with all things Dolby.io but also loves to chat about Python, Flutter, and about growing up in Australia.
 - 🎥 Angelik (she/her/hers) finished her studies in 2021 with a background in computer science and film & media studies. Now, she works as a Developer Advocate within Dolby.io focusing on virtual worlds and filmmaking. Talk to her about the best movies of the year, up and coming artists, or about languages. 
 - 👓 Griffin (he/him/any) graduated from Yale in 2019 and works for Dolby.io as a Developer Advocate. Ask him about Linux, JS, and what he's playing on Steam Deck.
-- 🌝 Sena (she/her) is a junior Computer Science student at SUNY Albany and interning in Dolby.io's Developer Relations team. You can chat with her about Dolby.io's API and SDKs, her internship & recruitment experiences (especially in Developer Relations), and indie/alternative music!
+- 🌝 Sena (she/her/hers) is a junior Computer Science student at SUNY Albany and interning in Dolby.io's Developer Relations team. You can chat with her about Dolby.io's API and SDKs, her internship & recruitment experiences (especially in Developer Relations), and indie/alternative music!
 
 **Community Writing Program :pencil2:**
 
