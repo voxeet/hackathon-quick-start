@@ -3,7 +3,7 @@
 Dolby.io is proud to be sponsoring [TreeHacks 2023](https://www.treehacks.com/)
 
 #### :bulb: **Quick Links** :bulb:
-:hammer: [Dolby.io API Quick Start](https://github.com/dolbyio-samples/hackathon-quick-start/edit/main/TreeHacks2023/TreeHacks2023.md#Getting-Started-With-Dolby.io-APIs)
+:hammer: [Dolby.io API Quick Start](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/TreeHacks2023/TreeHacks2023.md#Getting-Started-With-Dolby.io-APIs)
 
 :moneybag: [Prizes and Swag Requirements ]() 
 
