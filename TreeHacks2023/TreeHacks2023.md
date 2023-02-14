@@ -3,7 +3,7 @@
 Dolby.io is proud to be sponsoring [TreeHacks 2023](https://www.treehacks.com/)
 
 #### :bulb: **Quick Links** :bulb:
-:hammer: [Dolby.io API Quick Start](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/TreeHacks2023/TreeHacks2023.md#Getting-Started-With-Dolby.io-APIs)
+:hammer: [Dolby.io API Quick Start](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/TreeHacks2023/TreeHacks2023.md#getting-started-with-dolbyio-apis)
 
 :moneybag: [Prizes and Swag Requirements ]() 
 
@@ -14,7 +14,7 @@ Dolby.io is proud to be sponsoring [TreeHacks 2023](https://www.treehacks.com/)
 :eyes: [Come Meet the Dolby.io Team]() 
 
 
-## Getting Started With Dolby.io APIs
+## Getting Started With Dolbyio APIs
 Dolby.io is a new developer platform by Dolby Labs that puts decades of Dolby sight and sound technology in the hands of developers. The Dolby.io APIs can be divided into **3** main suites of tools:
 
 > **Sign-up for an account [using this link](https://bit.ly/dolbyio-at-treehacks) to get free minutes on your account for use on your hackathon project.**
