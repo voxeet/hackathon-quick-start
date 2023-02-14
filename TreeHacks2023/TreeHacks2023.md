@@ -3,7 +3,7 @@
 Dolby.io is proud to be sponsoring [TreeHacks 2023](https://www.treehacks.com/)
 
 #### :bulb: **Quick Links** :bulb:
-:hammer: [Dolby.io API Quick Start]()
+:hammer: [Dolby.io API Quick Start](https://github.com/dolbyio-samples/hackathon-quick-start/edit/main/TreeHacks2023/TreeHacks2023.md#Getting-Started-With-Dolby.io-APIs)
 
 :moneybag: [Prizes and Swag Requirements ]() 
 
@@ -53,10 +53,13 @@ Are you interested in getting paid to use the Dolby.io APIs? We've recently laun
 
 The Dolby.io team is hosting a **20-minute workshop** to help you get started with the Streaming APIs. In this workshop we'll cover getting to "hello world" with the API as well as popular usecases and thought starters. We'll also be handing out Dolby.io Swag :shirt:!
 
-**Time:** 10:30AM Saturday
-**Location:**
-**Sign Up?**
-**Recording?**
+**Time:** 10:30AM to 11:00AM Saturday 
+
+**Location:** NVIDIA Auditorium
+
+~~Pre-Hackathon Workshop Recording 02/15/23~~ (Available after workshop)
+
+**[Workshop Resources](https://github.com/dolbyio-samples/workshop-streaming-apis-getting-started)**
 
 
 
