@@ -41,16 +41,18 @@ Dolby.io is a new developer platform by Dolby Labs that puts decades of Dolby si
 
 
 ## Dolbyio Prize Requirements
-- We are offering a **cash prize of $1000** to a team that best uses [Dolby.io APIs](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/TreeHacks2023/TreeHacks2023.md#getting-started-with-dolbyio-apis) in their hackathon project.
+We are offering a **cash prize of $1000** to a team that best uses [Dolby.io APIs](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/TreeHacks2023/TreeHacks2023.md#getting-started-with-dolbyio-apis) in their hackathon project.
 When submitted, the project **MUST BE TAGGED #dolbyio** to be eligible.
 
 It is recommended you [chat with the team](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/TreeHacks2023/TreeHacks2023.md#come-meet-the-dolbyio-team) and [review the workshop content](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/TreeHacks2023/TreeHacks2023.md#streaming-api-workshop) for ideas and guidance.
 
 
 **Community Writing Program :pencil2:**
+
 Are you interested in getting paid to use the Dolby.io APIs? We've recently launched our [Community Writing Program](https://go.dolby.io/community-writing) where you can earn $$$ by building with our APIs and blogging about it. Learn more at: https://go.dolby.io/community-writing
 
 **Want free t-shirts, stickers, and cable bites?**
+
 Just chat with the Dolby.io team at the booth. We'll share a survey which will earn your some sweet Dolby.io merch. 
 
 
