@@ -44,7 +44,7 @@ Dolby.io is a new developer platform by Dolby Labs that puts decades of Dolby si
 We are offering a **cash prize of $1000** to a team that best uses [Dolby.io APIs](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/TreeHacks2023/TreeHacks2023.md#getting-started-with-dolbyio-apis) in their hackathon project.
 When submitted, the project **MUST BE TAGGED #dolbyio** to be eligible.
 
-> It is recommended you [chat with the team](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/TreeHacks2023/TreeHacks2023.md#come-meet-the-dolbyio-team) and [review the workshop content](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/TreeHacks2023/TreeHacks2023.md#streaming-api-workshop) for ideas and guidance.
+> It is recommended you [chat with the team](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/TreeHacks2023/TreeHacks2023.md#come-meet-the-dolbyio-team) and [review the workshop content](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/TreeHacks2023/TreeHacks2023.md#streaming-api-workshop) for ideas and guidance around using the Dolby.io APIs.
 
 
 **Community Writing Program :pencil2:**
