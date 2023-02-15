@@ -41,12 +41,17 @@ Dolby.io is a new developer platform by Dolby Labs that puts decades of Dolby si
 
 
 ## Dolbyio Prize Requirements
-- We are offering a **cash prize of $1000** to a team that best uses Dolby.io APIs in their hackathon project.
+- We are offering a **cash prize of $1000** to a team that best uses [Dolby.io APIs](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/TreeHacks2023/TreeHacks2023.md#getting-started-with-dolbyio-apis) in their hackathon project.
 When submitted, the project **MUST BE TAGGED #dolbyio** to be eligible.
+
+It is recommended you [chat with the team](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/TreeHacks2023/TreeHacks2023.md#come-meet-the-dolbyio-team) and [review the workshop content](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/TreeHacks2023/TreeHacks2023.md#streaming-api-workshop) for ideas and guidance.
 
 
 **Community Writing Program :pencil2:**
 Are you interested in getting paid to use the Dolby.io APIs? We've recently launched our [Community Writing Program](https://go.dolby.io/community-writing) where you can earn $$$ by building with our APIs and blogging about it. Learn more at: https://go.dolby.io/community-writing
+
+**Want free t-shirts, stickers, and cable bites?**
+Just chat with the Dolby.io team at the booth. We'll share a survey which will earn your some sweet Dolby.io merch. 
 
 
 
@@ -65,15 +70,15 @@ The Dolby.io team is hosting a **20-minute workshop** to help you get started wi
 
 
 ## Diversity Panel with Angelik
-- TreeHacks will be hosting a diversity workshop for hackers from underrepresented gender groups in tech. The panel will be focused on sharing experiences and advice from professionals in academia, industry, and startups about the challenges and opportunities to increase gender diversity in the tech industry. 
-- 
-**Time:** Saturday 3:00pm - Saturday 4:00pm
+TreeHacks will be hosting a diversity workshop for hackers from underrepresented gender groups in tech. The panel will be focused on sharing experiences and advice from professionals in academia, industry, and startups about the challenges and opportunities to increase gender diversity in the tech industry. 
+
+**Time:** 3:00PM - 4:00PM Saturday
 
 **Location:** NVIDIA Auditorium
 
 
 ## Come Meet the Dolbyio Team
-The Dolby.io team is located at booth ____ come tell us about your projects and learn more about our APIs.
+The Dolby.io team is located in the sponsor hall, come tell us about your projects and learn more about our APIs.
 - 🏃 Braden (he/him/his) graduated university in 2021 and joined Dolby.io as a Developer Advocate. He's here to help with all things Dolby.io but also loves to chat about Python, Flutter, and about growing up in Australia.
 - 🎥 Angelik (she/her/hers) finished her studies in 2021 with a background in computer science and film & media studies. Now, she works as a Developer Advocate within Dolby.io focusing on virtual worlds and filmmaking. Talk to her about the best movies of the year, up and coming artists, or about languages. 
 - 👓 Griffin (he/him/any) graduated from Yale in 2019 and works for Dolby.io as a Developer Advocate. Ask him about Linux, JS, and what he's playing on Steam Deck.
