@@ -74,7 +74,7 @@ The Dolby.io team is hosting a **20-minute workshop** to help you get started wi
 ## Diversity Panel with Angelik
 TreeHacks will be hosting a diversity workshop for hackers from underrepresented gender groups in tech. The panel will be focused on sharing experiences and advice from professionals in academia, industry, and startups about the challenges and opportunities to increase gender diversity in the tech industry. 
 
-**Time:** 3:00PM - 4:00PM Saturday
+**Time:** 3:00PM to 4:00PM Saturday
 
 **Location:** NVIDIA Auditorium
 
