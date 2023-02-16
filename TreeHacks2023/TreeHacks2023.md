@@ -65,7 +65,7 @@ The Dolby.io team is hosting a **20-minute workshop** to help you get started wi
 
 **Location:** NVIDIA Auditorium
 
-~~Pre-Hackathon Workshop Recording 02/15/23~~ (Available after workshop)
+[Pre-Hackathon Workshop Recording 02/15/23](https://stanford.zoom.us/rec/play/Oheg6-MaQO4byRrwC4QIF20Lq1zXU__r0JSV3jv-XfP_GTHd2Bb7ZbfxJWYrmcrHSxiV2vQ1UBSDVa-k.LpyL19Wz3bUN1_zZ?continueMode=true&_x_zm_rtaid=7V99jghgS0KYZd5BSWc6PQ.1676568710447.8cc11bc6bd415c5cd0300d132d8cb464&_x_zm_rhtaid=979)
 
 **[Workshop Resources](https://github.com/dolbyio-samples/workshop-streaming-apis-getting-started)**
 
