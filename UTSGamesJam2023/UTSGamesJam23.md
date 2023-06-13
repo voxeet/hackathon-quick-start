@@ -5,9 +5,9 @@ Dolby is proud to be sponsoring [UTS Games Jam 2023](https://events.humanitix.co
 #### :bulb: **Quick Links** :bulb:
 :hammer: [Dolby.io Plugin Quick Start](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/UTSGamesJam2023/UTSGamesJam23.md#getting-started-with-dolbyio-plugins)
 
-:moneybag: [Prizes and Event Logisitics](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/UTSGamesJam2023/UTSGamesJam23.md#dolbyio-prize-requirements-&-event-logistics) 
+:moneybag: [Prizes and Event Logisitics](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/UTSGamesJam2023/UTSGamesJam23.md#dolbyio-prize-requirements-and-event-logistics) 
 
-:raising_hand: [Workshop: Getting Started with Dolby.io and the Dolby.io Spatial Chat Plugin for Unity](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/UTSGamesJam2023/UTSGamesJam23.md#Workshop:-Getting-Started-with-Dolby.io-and-the-Dolby.io-Spatial-Chat-Plugin-for-Unity) 
+:raising_hand: [Workshop: Getting Started with Dolby.io and the Dolby.io Spatial Chat Plugin for Unity](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/UTSGamesJam2023/UTSGamesJam23.md#Workshop:-Getting-Started-with-Dolbyio-and-the-Dolbyio-Spatial-Chat-Plugin-for-Unity) 
 
 :eyes: [Come Meet the Dolby Team](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/UTSGamesJam2023/UTSGamesJam23.md#come-meet-the-dolbyio-team) 
 
@@ -26,7 +26,7 @@ Dolby.io is Dolby's developer platform, providing APIs, SDKs, and Game Engine Pl
   - [Spatial Chat Documentation](https://docs.dolby.io/communications-apis/docs/unreal-overview)
 
 
-## Dolbyio Prize Requirements & Event Logistics
+## Dolbyio Prize Requirements and Event Logistics
 
 **Prizes:** Prizes will be given in a variety of audio-related categories, recognising great games and other quirky achievements (sponsored by Dolby Australia). Please note, prizes will be awarded to to UTS Students only.
 
@@ -54,7 +54,7 @@ In this workshop, we'll present a crash course in understanding the Dolby.io pla
 To get set up ahead of the workshop make sure you have:
 1. Created a Dolby.io Account.
 2. Opened Unity and created a new project from the 3rd person template.
-3. Downloaded the scripts from the [Workshop Scripts folder](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/UTSGamesJam2023/Workshop-scripts/).
+3. Downloaded the scripts from the [Workshop Scripts folder](https://github.com/dolbyio-samples/hackathon-quick-start/tree/main/UTSGamesJam2023/Workshop%20Scripts).
 
 Workshop recording :camera::
 

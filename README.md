@@ -1,4 +1,5 @@
 # Hackathon Resources 
+[UTS Games Jam 2023](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/UTSGamesJam2023/UTSGamesJam23.md)
 
 [TreeHacks 2023](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/TreeHacks2023/TreeHacks2023.md)
 
