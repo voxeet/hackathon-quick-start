@@ -70,7 +70,7 @@ Completed Workshop Project: https://github.com/dolbyio-samples/workshop-multipla
 
 
 ## Come Meet the Dolbyio Team
-The Dolby.io team is located in the sponsor hall, come tell us about your projects and learn more about our APIs.
+The Dolby.io team is here to help with any questions about our Unity and Unreal plugins or about the Dolby.io platform:
 - 🏃 Braden (he/him/his): Build fast and build awesome. Braden is an Australian Python, Javascript, Flutter, and Unreal developer adept at tackling big problems quickly with a variety of stacks, tools, and ideas. Whether he is lecturing about social gaming experiences or running an app-building workshop, Braden loves to interact, learn from, and build with the community. Connect with Braden on LinkedIn at "bradenriggs" or on Twitter at "Bradenriggs1."
 
 - :ocean: Gary (he/him/his): Gary has worked as an game programmer at Sydney game companies for over a decade before joining Dolby, to work on their spatial audio technology. This technology was used in a spatial chat application (Dolby Axon) and EA’s Need For Speed World. Now this technology is part of Dolby.io and Gary is the Product Manager for the Unity and Unreal plugins. In his spare time, he wishes he had more spare time to play games.
