@@ -47,6 +47,7 @@ Dolby Games has partnered with Audio Kinetic to bring Atmos to [WWise](https://w
 Are you interested in getting paid to use the Dolby.io APIs and Plugins? We've recently launched our [Community Writing Program](https://go.dolby.io/community-writing) where you can earn **$$$** by building with our APIs and blogging about it. Learn more at: https://go.dolby.io/community-writing
 
 **Dolby Swag :sparkles:**
+
 Keep an eye out for some cool Dolby/Dolby.io merch Braden will be handing out!
 
 
@@ -62,7 +63,7 @@ To get set up ahead of the workshop make sure you have:
 2. Opened Unity and created a new project from the 3rd person template.
 3. Downloaded the scripts from the [Workshop Scripts folder](https://github.com/dolbyio-samples/hackathon-quick-start/tree/main/UTSGamesJam2023/Workshop%20Scripts).
 
-Workshop recording :camera::
+Workshop recording :camera:: https://www.youtube.com/watch?v=JPrOgyXOV_g
 
 Completed Workshop Project: https://github.com/dolbyio-samples/workshop-multiplayer-demo
 
