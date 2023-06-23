@@ -25,7 +25,7 @@ Dolby.io is Dolby's developer platform, providing APIs, SDKs, and Game Engine Pl
 
   - [Spatial Chat Documentation](https://docs.dolby.io/communications-apis/docs/unreal-overview)
 
-###Getting started with Dolby Atmos and WWise (Optional)
+### Getting started with Dolby Atmos and WWise (Optional)
 Dolby Games has partnered with Audio Kinetic to bring Atmos to [WWise](https://www.audiokinetic.com/en/products/wwise), an interactive audio tool for game development. During the workshop Braden will briefly cover Atmos for Gaming and how you can leverage it to create games with stunning sound.
 
 **Getting started with Unity and WWise:**
