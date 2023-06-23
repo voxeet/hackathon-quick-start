@@ -7,7 +7,7 @@ Dolby is proud to be sponsoring [UTS Games Jam 2023](https://events.humanitix.co
 
 :moneybag: [Prizes and Event Logisitics](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/UTSGamesJam2023/UTSGamesJam23.md#dolbyio-prize-requirements-and-event-logistics) 
 
-:raising_hand: [Workshop: Getting Started with Dolby.io and the Dolby.io Spatial Chat Plugin for Unity](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/UTSGamesJam2023/UTSGamesJam23.md#Workshop:-Getting-Started-with-Dolbyio-and-the-Dolbyio-Spatial-Chat-Plugin-for-Unity) 
+:raising_hand: [Workshop: Getting Started with Dolby.io and the Dolby.io Spatial Chat Plugin for Unity](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/UTSGamesJam2023/UTSGamesJam23.md#Workshop-Getting-Started-with-Dolbyio-and-the-Dolbyio-Spatial-Chat-Plugin-for-Unity) 
 
 :eyes: [Come Meet the Dolby Team](https://github.com/dolbyio-samples/hackathon-quick-start/blob/main/UTSGamesJam2023/UTSGamesJam23.md#come-meet-the-dolbyio-team) 
 
@@ -18,13 +18,19 @@ Dolby.io is Dolby's developer platform, providing APIs, SDKs, and Game Engine Pl
 **Get started with the Spatial Chat Plugin for Unity:**
 
   - [Spatial Chat Documentation](https://docs.dolby.io/communications-apis/docs/unity-overview)
-  - Spatial Chat for Unity Workshop (Video)
+  - [Spatial Chat for Unity Workshop (Video)](https://www.youtube.com/watch?v=JPrOgyXOV_g)
   - [Building a Spatial Multiplayer Chat App in Unity (Written)](https://dolby.io/blog/spatial-chatter-engaging-local-multiplayer-communication-for-unforgettable-virtual-experiences/)
 
 **Get started with the Spatial Chat Plugin for Unreal:**
 
   - [Spatial Chat Documentation](https://docs.dolby.io/communications-apis/docs/unreal-overview)
 
+###Getting started with Dolby Atmos and WWise (Optional)
+Dolby Games has partnered with Audio Kinetic to bring Atmos to [WWise](https://www.audiokinetic.com/en/products/wwise), an interactive audio tool for game development. During the workshop Braden will briefly cover Atmos for Gaming and how you can leverage it to create games with stunning sound.
+
+**Getting started with Unity and WWise:**
+- Getting started with WWise & Unity: [Part #1](https://www.youtube.com/watch?v=OrBVsgmhyfo), [Part #2](https://www.youtube.com/watch?v=0SlBxKvetjU), [Part #3](https://www.youtube.com/watch?v=kwJvfVWqrEM), [Part #4](https://www.youtube.com/watch?v=2LdbAdXczQs)
+- Getting started with WWise & Unity: [Adding Atmos](https://www.youtube.com/watch?v=hy6XHiBbAW8)
 
 ## Dolbyio Prize Requirements and Event Logistics
 
@@ -41,7 +47,7 @@ Dolby.io is Dolby's developer platform, providing APIs, SDKs, and Game Engine Pl
 Are you interested in getting paid to use the Dolby.io APIs and Plugins? We've recently launched our [Community Writing Program](https://go.dolby.io/community-writing) where you can earn **$$$** by building with our APIs and blogging about it. Learn more at: https://go.dolby.io/community-writing
 
 **Dolby Swag :sparkles:**
-Keep an eye out for some cool Dolby.io merch Braden will be handing out!
+Keep an eye out for some cool Dolby/Dolby.io merch Braden will be handing out!
 
 
 
@@ -65,13 +71,14 @@ Completed Workshop Project: https://github.com/dolbyio-samples/workshop-multipla
 ## Come Meet the Dolbyio Team
 The Dolby.io team is located in the sponsor hall, come tell us about your projects and learn more about our APIs.
 - 🏃 Braden (he/him/his): Build fast and build awesome. Braden is an Australian Python, Javascript, Flutter, and Unreal developer adept at tackling big problems quickly with a variety of stacks, tools, and ideas. Whether he is lecturing about social gaming experiences or running an app-building workshop, Braden loves to interact, learn from, and build with the community. Connect with Braden on LinkedIn at "bradenriggs" or on Twitter at "Bradenriggs1."
-- :notes:  Claire (): Claire has a background in Music Production and Sound Engineering, previously spending a few years of her career running a record label and releasing her own music. She joined Dolby in 2013 initially as a Senior Quality Engineer, bringing in her ‘golden ear’ to critically analyse Dolby Audio processing magic on mobile phone integrations. In more recent years she’s worked with Dolby’s line of communications products including spatial audio on Dolby’s Voice Conferencing phone hardware and Dolby’s voice conferencing media server. Today she’s a Senior Manager, leading a large team of engineers looking at component and platform level quality of the Dolby.io communications cloud product.
-- :ocean: Gary ():
+
+- :ocean: Gary (he/him/his): Gary has worked as an game programmer at Sydney game companies for over a decade before joining Dolby, to work on their spatial audio technology. This technology was used in a spatial chat application (Dolby Axon) and EA’s Need For Speed World. Now this technology is part of Dolby.io and Gary is the Product Manager for the Unity and Unreal plugins. In his spare time, he wishes he had more spare time to play games.
+- :rocket: Jordan (He/Him): Jordan has worked for two years as a QA engineer at Dolby.io. During his time here, he has been developing end to end tests assessing video quality on the Dolby.io platform. Outside of work, his personality is currently bouldering, but he also spends a lot of time watching movies and playing Crusader Kings.
 
 **Community Writing Program :pencil2:**
 
 Are you interested in getting paid to use the Dolby.io APIs? We've recently launched our [Community Writing Program](https://go.dolby.io/community-writing) where you can earn $$$ by building with our plugins or APIs and blogging about it. Learn more at: https://go.dolby.io/community-writing
 
-**Careers with Dolby**
+**Careers & Internships with Dolby**
 
-Dolby is hiring! Learn more at: https://www.dolby.com/careers/
+Dolby is hiring and looking for interns! Learn more at: https://www.dolby.com/careers/
