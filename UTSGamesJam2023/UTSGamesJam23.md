@@ -17,6 +17,7 @@ Dolby.io is Dolby's developer platform, providing APIs, SDKs, and Game Engine Pl
 
 **Get started with the Spatial Chat Plugin for Unity:**
 
+  - [Plugin Download](https://github.com/DolbyIO/comms-sdk-unity/releases)
   - [Spatial Chat Documentation](https://docs.dolby.io/communications-apis/docs/unity-overview)
   - [Spatial Chat for Unity Workshop (Video)](https://www.youtube.com/watch?v=JPrOgyXOV_g)
   - [Building a Spatial Multiplayer Chat App in Unity (Written)](https://dolby.io/blog/spatial-chatter-engaging-local-multiplayer-communication-for-unforgettable-virtual-experiences/)
