@@ -13,21 +13,21 @@ Dolby is proud to be sponsoring [UTS Games Jam 2023](https://events.humanitix.co
 
 
 ## Getting Started With Dolby.io Plugins
-Dolby.io is Dolby's developer platform, providing APIs, SDKs, and Game Engine Plugins that allow developers to build compelling audio and video experiences. This event will be primarily focused around the Dolby.io Spatial Chat plugins for Unity and Unreal. The Dolby.io team is eager to get your feedback on using and understanding the plugins so please chat to the team if you run into any issues or blockers.
+Dolby.io is Dolby's developer platform, providing APIs, SDKs, and Game Engine Plugins that allow developers to build compelling audio and video experiences. This event will be primarily focused on the Dolby.io Spatial Chat plugins for Unity and Unreal. The Dolby.io team is eager to get your feedback on using and understanding the plugins so please chat to the team if you run into any issues or blockers.
 
-**Get started with the Spatial Chat Plugin for Unity:**
+**Get started with the Spatial Chat Plugin (Required for prize eligibility) for Unity:**
 
   - [Plugin Download](https://github.com/DolbyIO/comms-sdk-unity/releases)
   - [Spatial Chat Documentation](https://docs.dolby.io/communications-apis/docs/unity-overview)
   - [Spatial Chat for Unity Workshop (Video)](https://www.youtube.com/watch?v=JPrOgyXOV_g)
   - [Building a Spatial Multiplayer Chat App in Unity (Written)](https://dolby.io/blog/spatial-chatter-engaging-local-multiplayer-communication-for-unforgettable-virtual-experiences/)
 
-**Get started with the Spatial Chat Plugin for Unreal:**
+**Get started with the Spatial Chat Plugin (Required for prize eligibility) for Unreal:**
 
   - [Spatial Chat Documentation](https://docs.dolby.io/communications-apis/docs/unreal-overview)
 
 ### Getting started with Dolby Atmos and WWise (Optional)
-Dolby Games has partnered with Audio Kinetic to bring Atmos to [WWise](https://www.audiokinetic.com/en/products/wwise), an interactive audio tool for game development. During the workshop Braden will briefly cover Atmos for Gaming and how you can leverage it to create games with stunning sound.
+Dolby Games has partnered with Audio Kinetic to bring Atmos to [WWise](https://www.audiokinetic.com/en/products/wwise), an interactive audio tool for game development. During the workshop, Braden will briefly cover Atmos for Gaming and how you can leverage it to create games with stunning sound.
 
 **Getting started with Unity and WWise:**
 - Getting started with WWise & Unity: [Part #1](https://www.youtube.com/watch?v=OrBVsgmhyfo), [Part #2](https://www.youtube.com/watch?v=0SlBxKvetjU), [Part #3](https://www.youtube.com/watch?v=kwJvfVWqrEM), [Part #4](https://www.youtube.com/watch?v=2LdbAdXczQs)
@@ -35,13 +35,13 @@ Dolby Games has partnered with Audio Kinetic to bring Atmos to [WWise](https://w
 
 ## Dolbyio Prize Requirements and Event Logistics
 
-**Prizes:** Prizes will be given in a variety of audio-related categories, recognising great games and other quirky achievements (sponsored by Dolby Australia). Please note, prizes will be awarded to to UTS Students only.
+**Prizes:** Prizes will be given in a variety of audio-related categories, recognizing great games and other quirky achievements (sponsored by Dolby Australia). Please note, prizes will be awarded to UTS Students only.
 
 **Theme:** Core topics will be provided on the day of the Game Jam for teams to design and build their game around. This ensures that all teams come to event with a blank canvas, ready to collaborate on any creative design ideas that are inspired by the themes of the day.
 
->Theme will be added here once announced
+>Build a game experience driven by player-to-player communication where communication is core to gameplay.
 
-**Team Sizes:** There is no minimum or maximum team size, however we recommend teams of 2-5 people. You can come with a pre-made team but there will also be time to form new teams and recruit new team members on the first day. This is a chance to work with people you usually wouldn’t get the chance to, so make the most of it and get to know others at the event.
+**Team Sizes:** There is no minimum or maximum team size, however, we recommend teams of 2-5 people. You can come with a pre-made team but there will also be time to form new teams and recruit new team members on the first day. This is a chance to work with people you usually wouldn’t get the chance to, so make the most of it and get to know others at the event.
 
 **Community Writing Program :pencil2:**
 
